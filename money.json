@@ -1,260 +1,254 @@
 [
   {
-    "key": "Dollars",
-    "region": "Dollars",
-    "subregion": "Interface",
-    "value": 20000
-  },
-  {
     "key": "Dollar Menu item",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 10
   },
   {
     "key": "Starbucks Coffe",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 10
   },
   {
     "key": "Apples (one dozen)",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Units",
     "value": 2
   },
   {
     "key": "Oranges (one dozen)",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Units",
     "value": 3
   },
   {
     "key": "Daily interest on average credit card debt",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Units",
     "value": 5
   },
   {
     "key": "Average singles US restaurant meal",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 35
   },
   {
     "key": "Average meal at the 20 costliest San Francisco restaurants",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 85
   },
   {
     "key": "Median household daily income",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 136
   },
   {
     "key": "One-gallon jug of loose change",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 270
   },
   {
     "key": "Paperback book",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Units",
     "value": 6
   },
   {
     "key": "Hardcover book",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 32
   },
   {
     "key": "Audio book",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 50
   },
   {
     "key": "Kindle",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 79
   },
   {
     "key": "New video game",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 49
   },
   {
     "key": "Traditional cell phone average monthly fee",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 77
   },
   {
     "key": "Smartphone average monthly fee",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 110
   },
   {
     "key": "Kindle keyboard + 3G",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 139
   },
   {
     "key": "Loose change with no quarters",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Units",
     "value": 5
   },
   {
     "key": "Loose change with no pennies",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 17
   },
   {
     "key": "PS3",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 250
   },
   {
     "key": "Xbox 360",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 200
   },
   {
     "key": "Wii",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value":150
   },
   {
     "key": "Homemade rice and pinto beans",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Units",
     "value": 9
   },
   {
     "key": "Homemade chicken dinner",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 13
   },
   {
     "key": "McDonalds",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 27
   },
   {
     "key": "Arby's",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 34
   },
   {
     "key": "Chili's",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 69
   },
   {
     "key": "Outback SteakHouse",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 109
   },
   {
     "key": "Kindle Fire",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 199
   },
   {
     "key": "Men's suit",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 400
   },
   {
     "key": "Low-end bicycle",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 190
   },
   {
     "key": "Basic iPad",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 499
   },
   {
     "key": "iPad 3G + a year of data",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 869
   },
   {
     "key": "Basic Macbook Air",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 999
   },
   {
     "key": "Comcast cable internet for a year",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 719
   },
   {
     "key": "Mac Mini",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 599
   },
   {
     "key": "Netbook",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 249
   },
   {
     "key": "iPod Nano",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 129
   },
   {
     "key": "1965 production worker average hourly wage",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 19
   },
   {
     "key": "2007 production worker average hourly wage",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Tens",
     "value": 19
   },
   {
     "key": "1965 production CEO average hourly wage",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Hundreds",
     "value": 490
   },
   {
     "key": "2007 production CEO average hourly wage",
     "region": "Dollars",
-    "subregion": "Dollars",
+    "subregion": "Thousands",
     "value": 5419
   },
   {
@@ -265,7 +259,7 @@
   },
   {
     "key": "Vacacion package from New England",
-    "region": "Thousands",
+    "region": "Dollars",
     "subregion": "Thousands",
     "value": 3204
   },
