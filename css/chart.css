@@ -1,6 +1,6 @@
 #chart {
   background: #fff;
-  font-family: "Open Sans";
+  font-family: "Helvetica";
 }
 
 .title {
@@ -29,7 +29,7 @@ rect.parent,
 }
 
 rect.parent {
-    pointer-events: none;
+  pointer-events: none;
 }
 
 .grandparent rect {
