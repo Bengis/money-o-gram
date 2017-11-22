@@ -252,33 +252,9 @@
     "value": 5419
   },
   {
-    "key": "Twenty week-long Hawaiian vacations",
-    "region": "Thousands",
-    "subregion": "Thousands",
-    "value": 136020
-  },
-  {
     "key": "Vacacion package from New England",
     "region": "Dollars",
     "subregion": "Thousands",
     "value": 3204
-  },
-  {
-    "key": "Lower income",
-    "region": "Thousands",
-    "subregion": "Thousands",
-    "value": 150380
-  },
-  {
-    "key": "Middle income",
-    "region": "Thousands",
-    "subregion": "Thousands",
-    "value": 206920
-  },
-  {
-    "key": "Upper income",
-    "region": "Thousands",
-    "subregion": "Thousands",
-    "value": 302860
   }
 ]
