@@ -10,7 +10,7 @@ var defaults = {
     rootname: "TOP",
     format: ",d",
     title: "",
-    width: 705,
+    width: 700,
     height: 600
 };
 
