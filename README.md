@@ -7,5 +7,5 @@ Money O-Gram es una visualización interactiva. Puede pulsar en cada area y ver 
 
 ## Credits
 
-Código d3.js: [Zoomable Treempap D3](http://bl.ocks.org/ganeshv/6a8e9ada3ab7f2d88022) by Ganesh Vancheeswaran
-Código web: [Simple site](http://kbroman.org/simple_site/pages/user_site.html) by Karl Broman
+* Código d3.js: [Zoomable Treempap D3](http://bl.ocks.org/ganeshv/6a8e9ada3ab7f2d88022) by Ganesh Vancheeswaran
+* Código web: [Simple site](http://kbroman.org/simple_site/pages/user_site.html) by Karl Broman
