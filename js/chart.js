@@ -242,7 +242,7 @@ function main(o, data) {
 }
 
 if (window.location.hash === "") {
-    d3.json("money.json", function(err, res) {
+    d3.json("../json/money.json", function(err, res) {
         if (!err) {
             console.log(res);
             var data = d3.nest().key(function(d) { return d.region; }).key(function(d) { return d.subregion; }).entries(res);
